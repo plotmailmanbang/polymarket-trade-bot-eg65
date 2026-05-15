@@ -1,4 +1,4 @@
-# 
+# ultimate Polymarket Plugin | trailing-stops + event-driven-trading is the best Polymarket plugin, featuring trailing-stops and event-driven-trading. Smart, fast, and optimized for
 
 
 
